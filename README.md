@@ -7,6 +7,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on flutter
 - 💬 Ask me about spring, angular
 - 📫 How to reach me: cubanhog.royalgamma@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
